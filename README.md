@@ -151,6 +151,79 @@
     style="padding-right: 10px;" 
     src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" 
 />
+<img 
+    align="left" 
+    alt="SQLmap" 
+    title="SQLmap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="Burpsuite" 
+    title="Burpsuite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Wireshark" 
+    title="Wireshark"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Metasploit" 
+    title="Metasploit"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="John" 
+    title="John"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/john/images/john-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Nmap" 
+    title="Nmap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/nmap/images/nmap-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Gobuster" 
+    title="Gobuster"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Netcat" 
+    title="Netcat"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/netcat/images/netcat-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="ffuf" 
+    title="ffuf"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg"
+/>
+
 
 <br/>
 <br/>
