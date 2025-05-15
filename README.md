@@ -68,6 +68,14 @@
 />
 <img 
     align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"    
+/>
+<img 
+    align="left" 
     alt="MongoDB" 
     title="MongoDB"
     width="30px" 
