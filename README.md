@@ -140,6 +140,21 @@
 <br/>
 <br/>
 
+### Security Tools
+
+
+<img 
+    align="left" 
+    alt="Hydra" 
+    title="Hydra"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" 
+/>
+
+<br/>
+<br/>
+
 ### Other
 
 
