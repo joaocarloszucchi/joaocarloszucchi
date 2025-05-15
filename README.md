@@ -56,12 +56,12 @@
 <br/>
 <br/>
 
-### Other
+### Databases
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"    
@@ -82,6 +82,13 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  
 />
+
+<br/>
+<br/>
+
+### Frameworks
+
+
 <img 
     align="left" 
     alt="NodeJs" 
@@ -106,6 +113,13 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
+
+<br/>
+<br/>
+
+### Cloud
+
+
 <img 
     align="left" 
     alt="AWS" 
@@ -122,6 +136,13 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
 />
+
+<br/>
+<br/>
+
+### Other
+
+
 <img 
     align="left" 
     alt="Git" 
